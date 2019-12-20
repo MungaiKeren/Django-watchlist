@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea/
+.vscode/
+movies/migrations/
+env
 # C extensions
 *.so
 
